@@ -1,6 +1,6 @@
 ## Natterbase Node Test
 
-###Instructions for app usage
+### Instructions for app usage
 - Clone repo 
 - Open folder
 - Run "npm install" to install dependencies
